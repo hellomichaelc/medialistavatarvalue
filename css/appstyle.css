@@ -1,0 +1,24 @@
+.item-amount {
+	padding-top: 15px;
+}
+
+.item-name {
+	padding-top: 8px;
+}
+
+.nested-table {
+	display: none;
+}
+
+.nested-parent-table {
+	border-top: 1px solid #e8e8e8;
+}
+
+#non-click {
+	border-top: 1px solid #e8e8e8;
+}
+
+.media-list-group .list-group-item  {
+	border-bottom: 1px solid #e8e8e8;
+	margin-bottom: 0px;
+}
